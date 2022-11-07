@@ -1551,7 +1551,7 @@ figure {
     width: max-content;
     height: max-content;
     position: fixed;
-    z-index: 1000;
+    z-index: 1023;
     top: 80%;
     left: 90%;
   }
